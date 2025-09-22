@@ -8,7 +8,7 @@ This game can be played **online in Chrome** (desktop & mobile) for free.
 ## 🎮 How to Play
 
 1. Open the game in your browser using this link:  
-   [https://Unknown.github.io/flappy-html/](https://unknown.github.io/flappy-html/)
+   [https://Unknown.github.io/Sura/](https://unknown.github.io/Sura/)
 2. Click or tap the screen to make the bird flap.  
 3. Avoid the pipes and try to get the highest score possible!  
 4. Optional: If using Chrome with PWA support, you can **install the game** on your device like an app.
@@ -17,7 +17,7 @@ This game can be played **online in Chrome** (desktop & mobile) for free.
 
 ## 📂 Project Structure
 
-flappy-html/ ├── index.html       → Main HTML file ├── flappybird.js          → JavaScript for game logic ├── styles.css       → CSS for styling ├── assets/          → Images, icons, and audio (optional) ├── manifest.json    → PWA manifest (optional, for installable app) ├── sw.js            → Service worker (optional, offline support) └── README.md        → Project description and instructions
+Sura/ ├── index.html       → Main HTML file ├── flappybird.js          → JavaScript for game logic ├── styles.css       → CSS for styling ├── assets/          → Images, icons, and audio (optional) ├── manifest.json    → PWA manifest (optional, for installable app) ├── sw.js            → Service worker (optional, offline support) └── README.md        → Project description and instructions
 
 ---
 
@@ -33,7 +33,7 @@ flappy-html/ ├── index.html       → Main HTML file ├── flappybird.
 
 1. Open your GitHub Pages URL:
 
-https://unknown.github.io/flappy-html/
+https://unknown.github.io/Sura/
 
 2. Play instantly in **Chrome** or any modern browser.  
 3. No downloads or installations are required.  
@@ -50,4 +50,4 @@ https://unknown.github.io/flappy-html/
 
 ## 🔗 Live Demo
 
-[Play Online](https://unknown.github.io/flappy-html/)
+[Play Online](https://unknown.github.io/Sura/)
